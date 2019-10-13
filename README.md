@@ -10,15 +10,15 @@ Weather is aimed for Algerian weather studies only.
 
 ## Screenshots
 ### Map and prediction bar 
-[!ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/flyout.PNG)
+![ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/flyout.PNG)
 ### Predictions result 
-[!ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/prediction.PNG)
+![ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/prediction.PNG)
 ### Statistics :histogram 
-[!ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/histogramme.PNG)
+![ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/histogramme.PNG)
 ### Statistics :graphs 
-[!ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/graphe2.PNG)
+![ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/graphe2.PNG)
 ### DataSet Configuration 
-[!ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/dataset.PNG)
+![ScreenShot](https://github.com/MeridjaNassim/WeatherLab/blob/master/dataset.PNG)
 
 ## Credits
 Made By :
